@@ -1,0 +1,233 @@
+* body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.quadrant1 {
+    width: 500px;
+}
+
+.quadrant1 span {
+    color: blue;
+    font-weight: 200;
+
+}
+
+.quadrant1 p {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 400px;
+
+}
+
+
+
+
+
+#p0 {
+    padding-bottom: 1px;
+    word-spacing: 3px;
+    box-sizing: border-box;
+}
+
+.ribbon {
+    background-color: rgb(22, 106, 106);
+    padding-left: 74px;
+    color: white;
+    width: 299px;
+
+}
+
+.subquad {
+    display: flex;
+    width: 323px;
+    margin-bottom: 5px;
+}
+
+.quad1 span {
+    color: rgb(22, 106, 106);
+    font-size: 29px;
+    padding-top: 5px;
+}
+
+#p1 {
+    margin-left: 35px;
+    color: black;
+}
+
+.quad1 p {
+    color: rgb(22, 106, 106);
+
+
+}
+
+#sp1 {
+    color: rgb(237, 139, 19);
+}
+
+.frenchfries img {
+    height: 50px;
+    width: 50px;
+}
+
+
+.img img {
+    width: 81px;
+    height: 80px;
+
+
+}
+
+.frenchfries div {
+    margin: 5px;
+}
+
+.base {
+    background-color: rgb(22, 106, 106);
+    color: white;
+    width: 301px;
+    padding-left: 74px
+}
+
+.quadrant2 span {
+    color: rgb(22, 106, 106);
+}
+
+.vase {
+    margin-top: 15px;
+    background-color: rgb(22, 106, 106);
+    color: white;
+    padding-left: 74px;
+    width: 301px;
+}
+
+#sp1 {
+    color: rgb(227, 143, 18);
+}
+
+#sp2 {
+    color: rgb(227, 143, 18);
+}
+
+#sp3 {
+    color: rgb(227, 143, 18);
+}
+
+#sp4 {
+    color: rgb(227, 143, 18);
+}
+
+.parent1 {
+    display: flex;
+    width: 900px;
+}
+
+.p1 {
+    display: flex;
+}
+
+.p2 {
+    display: flex;
+}
+
+.p2 img {
+    height: 50px;
+    width: 50px;
+    margin-left: 3px;
+}
+
+.p3 {
+    display: flex;
+}
+
+.p3 img {
+    height: 50px;
+    width: 50px;
+    margin-left: 20px
+}
+
+.p4 {
+    display: flex
+}
+
+.p4 img {
+    height: 50px;
+    width: 50px;
+    margin-left: 20px
+}
+
+.p1 img {
+    width: 50px;
+    height: 50px;
+
+}
+
+.parent2 {
+    display: flex;
+}
+
+
+
+.logo {
+    margin-top: 58px;
+
+}
+
+.parent2 img {
+    width: 50px;
+    height: 60px;
+
+}
+
+.mase div {
+    display: flex;
+}
+
+
+#b1 {
+    display: flex;
+}
+
+#b1 span {
+    margin-left: -115px;
+    margin-top: 49px;
+}
+
+
+
+
+
+
+#b2 {
+    display: flex;
+    margin-top: 19px;
+}
+
+#b2 span {
+    margin-left: -115px;
+    margin-top: 49px;
+}
+
+#b3 {
+    display: flex;
+    margin-top: 19px;
+}
+
+#b3 span {
+    margin-left: -115px;
+    margin-top: 49px;
+}
+
+.quadrant4 {
+    margin-left: 127px;
+    margin-top: -19px;
+}
+
+.rase {
+    background-color: rgb(22, 106, 106);
+    color: white;
+    width: 328px;
+    padding-left: 74px
+}
